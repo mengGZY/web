@@ -1,0 +1,529 @@
+.Navigation{
+	width:1920px;
+	height:101px;
+}
+.Navigation h2{
+	width:170px;
+	height:39px;
+	font-size:40px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(0,164,255,1);
+	display: inline-block;
+	float: left;
+	margin-top: 33px;
+}
+
+.one{
+	
+	margin:0 372px 0 369px ;
+	width: 1200px;
+	height:101px;
+}
+.nav{
+	float: left;
+	margin-top: 33px;
+	width:259px;
+	height:18px;
+	margin-left: 71px;
+}
+.nav a{
+	font-size:18px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+}
+.one li{
+	float: left;
+	height: 18px;
+	padding: 9px 9px 12px 9px;
+	
+	
+	text-align: center;
+}
+.yu{
+	margin-left: 27px;
+}
+.one li:hover{
+	border-bottom:2px solid rgba(0,164,255,1);
+}
+.form{
+	float: right;
+	margin-top: 31.2px;
+}
+.search{
+	float: left;
+	width:369px ;
+	padding-left:19px;
+	padding-top: 13px;
+	padding-bottom: 12px;
+	border: 1px solid rgba(0,164,255,1);
+}
+.submit{
+	border: none;
+	width: 52px;
+	height: 42px;
+	vertical-align: bottom;
+	float: left;
+	background:rgba(0,164,255,1) url(button.png) no-repeat center center;
+	border: 1px solid rgba(0,164,255,1);
+}
+.geren{
+	float: right;
+	width:60px;
+	height:12px;
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(102,102,102,1);
+	padding-left: 31.5px;
+	padding-top: 11px;
+}
+.first{
+	background: rgba(28,3,108,1)   url(1.png) no-repeat center center;
+	height: 420px;
+	width: 100%;
+	position:relative;
+}
+.nest{
+	width:190px;
+	height: 420px;
+	background:rgba(0,0,0,0.3);
+	position:absolute;
+	left: 360px;
+	}
+.nest li{
+	line-height:40px;
+
+}
+.nest li a{
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:#FFFF;
+	
+}
+
+span{
+	width:5px;
+	height:9px;
+	color:rgba(229,229,229,1);
+	position: absolute;
+	right: 0px;	
+	
+
+}
+.wang{
+	width:101px;
+	height:365px;
+	position: absolute;
+	top: 27px;
+	bottom: 28px;
+	left: 20px;
+	right: 39px;
+
+}
+.meng{
+	width: 1200px;
+	height: 60px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 3px 0px rgba(118,118,118,0.2);
+	margin: 0 auto;
+	position:relative;
+
+}
+.fir {
+	width: 132px;
+	height: 18px;
+	border-right: 1px solid rgba(191,191,191,1);
+	float: left;
+	text-align: center;
+}
+.fid{
+	height: 18px;
+	width: 132px;
+	float: left;
+	text-align: center;
+	
+}
+.xi{
+	margin-top: 21px;
+}
+.xi  li{
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:#050505;
+}
+.fir a{
+	color: rgba(0,164,255,1);
+}
+.xi .amd{
+	position: absolute;
+	right: 61px;
+}
+.amd a{
+	color: rgba(0,164,255,1);
+}
+.jing{
+	
+	position: absolute;
+	right: 1120px;
+	top: 37px;
+	width:80px;
+	height:19px;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+}
+.cha{
+	position: absolute;
+	right: 31px;
+	top: 44px;
+	width:48px;
+	height:13px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+}
+.dao{
+	width: 1200px;
+	margin: 0 auto;
+	height: 77px;
+	position:relative;
+}
+.tupian1 li{
+	width:228px;
+	height:270px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 4px 0px rgba(118,118,118,0.5);
+	float: left;
+}
+.sea{
+	margin-top: 15px;
+}
+.nea{
+	margin-left: 15px;
+}
+.tupian1{
+	width: 1200px;
+	margin: 0 auto;
+}
+.png{
+	width: 228px;
+	height: 155px;
+}
+.bin{
+	width:185px;
+	height:34px;
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+	line-height:20px;
+	margin-left:23px; 
+	margin-top: 24px;
+}
+.ke{
+	width:119px;
+	height:13px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	margin-left: 23px;
+	margin-top: 18px;
+}
+.hao{
+	color:rgba(255,123,45,1);
+}
+.ze{
+	color: #999999;
+}
+.hua{
+	width: 140px;
+	height: 19px;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(72,72,72,1);
+	position: absolute;
+	top: 37px;
+	left:0px ;
+}
+.biaodan ul {
+	float: left;
+	width:327px;
+	height:17px;
+	position: absolute;
+	top: 41px;
+	right: 440px;
+}
+.biaodan li{
+	float: left;
+}
+.biaodan a{
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:#868686;
+}
+.di{
+	margin-left: 65px;
+}
+.biaodan a:hover{
+	color:rgba(0,163,255,1);
+}
+.tupian2{
+	width: 1200px;
+	margin: 0 auto;
+}
+.tupian2 li{
+	width:228px;
+	height:270px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 4px 0px rgba(118,118,118,0.5);
+	float: left;
+}
+.top{
+	width: 228px;
+	height: 155px;
+}
+.nuren{
+	width: 1200px;
+	margin : 0 auto;
+	height: 87px;
+	position: relative;
+}
+.fen{
+	width:80px;
+	height:19px;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(72,72,72,1);
+	position: absolute;
+	top: 35px;
+	left: 0px;
+	bottom: 33px;
+}
+.last{
+	width: 1200px;
+	margin: 0 auto;
+	
+}
+.last li{
+	float: left;
+}
+.niu{
+	margin-left: 15px;
+}
+.niu img{
+	width: 228px;
+	height: 320px;
+}
+.sheng{
+	position: relative;
+}
+.sheng img{
+	width: 471px;
+	height: 320px;
+}
+.wer{
+	;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(249,224,3,1);
+	line-height:36px;
+}
+.wty{
+	
+	font-size:27px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	line-height:36px;
+	color: #FFFFFF;
+}
+.abc{
+	width:87px;
+	height:25px;
+	border: 1px solid rgba(249,224,3,1);
+	position: absolute;
+	top: 173px;
+	left: 28px;
+}
+.dian{
+	width:53px;
+	height:14px;
+	font-size:13px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(249,224,3,1);
+	line-height:20px;
+	text-align: center;
+	margin: 0 auto;
+}
+.yuan{
+	position: absolute;
+	left: 25px;
+	top: 99px;
+}
+.niu{
+	
+	position: relative;
+}
+.wen{
+	width:228px;
+	height:122px;
+	background:rgba(0,0,0,1);
+	opacity:0.5;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+.xiao{
+	font-size:18px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(255,255,255,1);
+	line-height:20px;
+	position: absolute;
+	top: 21px;
+	left: 29px;
+}
+.niao{
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(255,255,255,1);
+	line-height:20px;
+	position: absolute;
+	top: 21px;
+	right: 91px;
+}
+.fu{
+	width:175px;
+	height:53px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(255,255,255,1);
+	line-height:20px;
+	position: absolute;
+	top: 51px;
+	left: 25px;
+}
+.yao{
+	width:1917px;
+	height:417px;
+	background:rgba(255,255,255,1);
+	position: relative;
+}
+.yun{
+	
+	font-size:36px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(0,163,255,1);
+	line-height:21px;
+	position: absolute;
+	top: 124px;
+	left: 380px;
+}
+.pei{
+	font-size:12px;
+	font-family:SimSun;
+	font-weight:400;
+	color:rgba(101,101,101,1);
+	line-height:18px;
+	position: absolute;
+	top: 194.99px;
+	left: 382px;
+}
+.nuo{
+	width:63px;
+	height:15px;
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(0,163,255,1);
+	position: absolute;
+	top: 11px;
+	left: 27px;
+}
+.nbu{
+	width:120px;
+	height:36px;
+	border: 1px solid rgba(0,163,255,1);
+	position: relative;
+	top: 240px;
+	left: 381px;
+}
+.asd{
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:21px;
+	position: absolute;
+	top: 129px;
+	left: 1026px;
+}
+.fgh{
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:21px;
+	position: absolute;
+	top: 130px;
+	left: 1251px;
+}
+.jkl{
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:21px;
+	position: absolute;
+	top: 130px;
+	left: 1467px;
+}
+.qwe{
+	font-size:12px;
+	font-family:SimSun;
+	font-weight:400;
+	
+	line-height:21px;
+	position: absolute;
+	top: 161px;
+	left: 1027px;
+}
+.rty{
+	font-size:12px;
+	font-family:SimSun;
+	font-weight:400;
+	
+	line-height:21px;
+	position: absolute;
+	top: 161px;
+	left: 1251px;
+}
+.uio{
+	font-size:12px;
+	font-family:SimSun;
+	font-weight:400;
+	
+	line-height:21px;
+	position: absolute;
+	top:161px ;
+	left:1469px ;
+}
+.zai{
+	color:rgba(0,164,255,1);
+}
+.xia a{
+	color:rgba(51,51,51,1);
+}
